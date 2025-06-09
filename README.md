@@ -1,6 +1,18 @@
 # theme_and_color_switcher
 
-A new Flutter project.
+### A Flutter application that demonstrates theme switching (light/dark/system) and primary color selection using the MVVM pattern with Provider for state management.
+
+## Features
+
+- Theme Mode Selection: Switch between Light, Dark, and System themes
+
+- Primary Color Switcher: Choose from predefined primary colors
+
+- Dynamic UI: Automatically adapts to theme changes
+
+- MVVM Architecture: Follows Model-View-ViewModel pattern
+
+- Provider State Management: Efficient state handling
 
 ## Getting Started
 
